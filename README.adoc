@@ -4,6 +4,12 @@
 
 this is an experimental repo which uses Rust to build UIs for Holochain, and features a `wasm-bindgen` FFI binding library to the https://github.com/holochain/holochain-client-js[holochain-client-js] library.
 
+== 🛑 note about abandonment 🛑
+
+this repo is abandoned. Neighbourhoods is moving ahead with a different path, more in line with standard Holochain practice (Rust only in Holochain, Javascript for frontends).
+
+I'm leaving this here for historical interest.
+
 == initial repo setup
 
 === init submodules
